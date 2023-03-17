@@ -44,7 +44,7 @@ https://www.bilibili.com/video/BV1k341147eo/
 #### [德哥 / digoal's github - 公益是一辈子的事.](https://github.com/digoal/blog/blob/master/README.md "22709685feb7cab07d30f30387f0a9ae")
   
   
-![digoal's wechat](../pic/digoal_weixin.jpg "f7ad92eeba24523fd47a6e1a0e691b59")
+![digoal's wechat](https://github.com/digoal/blog/blob/master/pic/digoal_weixin.jpg "f7ad92eeba24523fd47a6e1a0e691b59")
   
   
 #### [PolarDB 学习图谱: 训练营、培训认证、在线互动实验、解决方案、生态合作、写心得拿奖品](https://www.aliyun.com/database/openpolardb/activity "8642f60e04ed0c814bf9cb9677976bd4")
